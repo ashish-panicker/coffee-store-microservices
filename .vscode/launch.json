@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ItemsServiceApplication<items-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.coffee.store.itemsservice.ItemsServiceApplication",
+            "projectName": "items-service",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MenuServiceApplication<menu-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.coffee.store.menuservice.MenuServiceApplication",
+            "projectName": "menu-service",
+            "args": ""
+        }
+    ]
+}
